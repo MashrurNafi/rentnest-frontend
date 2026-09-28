@@ -2,8 +2,8 @@
 
 A full-stack rental marketplace frontend — browse listings, request to rent, pay securely with Stripe, and manage everything from role-based dashboards.
 
-**Live:** https://rent-nest-o1.vercel.app
-**Backend API:** https://rent-nest-three-blue.vercel.app (separate service — see [API_INTEGRATION.md](./API_INTEGRATION.md))
+**Live:** https://rentnest-front.vercel.app/
+**Backend API:** https://rent-nest-virid.vercel.app/ 
 
 ## Demo Account
 
@@ -11,7 +11,7 @@ A full-stack rental marketplace frontend — browse listings, request to rent, p
 | ----- | ----------------- | ---------- |
 | ADMIN | `admin@gmail.com` | `admin123` |
 
-Tenant and landlord accounts can be created via [`/register`](https://rent-nest-o1.vercel.app/register).
+Tenant and landlord accounts can be created via [`/register`]( https://rentnest-front.vercel.app/register).
 
 ## Features
 
